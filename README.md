@@ -1,16 +1,24 @@
-# mathgame_master
+# Math Game Master
 
-A new Flutter project.
+Math Game Master, basit matematik işlemlerini çözmek için bir oyun uygulamasıdır. Rastgele oluşturulan sayılarla toplama işlemleri yaparak kullanıcının matematik becerilerini geliştirmeyi amaçlar.
 
-## Getting Started
+## Ekran Görüntüleri
 
-This project is a starting point for a Flutter application.
+![Ekran Görüntüsü 1](![Ekran görüntüsü 2023-12-18 151705](https://github.com/RFatihK/mathgame/assets/105307052/56a75b4b-75da-488b-8cbb-7a8560710c5f)
+)
+![Ekran Görüntüsü 2](![Ekran görüntüsü 2023-12-18 151729](https://github.com/RFatihK/mathgame/assets/105307052/c3e3f29f-a9c4-4388-8e70-3848fd52cdd7)
+)
 
-A few resources to get you started if this is your first Flutter project:
+## Özellikler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Rastgele sayılarla toplama işlemleri
+- Kullanıcı girişi doğrulama
+- Basit ve şık kullanıcı arayüzü
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Nasıl Kullanılır
+
+Uygulamayı başlatmak için şu adımları izleyin:
+
+1. **Clone Repository:**
+   ```bash
+   git clone https://github.com/kullaniciadi/mathgame_master.git
